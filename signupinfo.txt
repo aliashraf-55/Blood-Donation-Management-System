@@ -1,0 +1,11 @@
+ASHRAF  111  ashraf
+RASHAD  222  rashad
+FAIZUR  333  faizur
+ASHRAF	444	ASHRAF
+TAPU	444	tapu
+DIPU	555	dipu
+SHIHAB	888	shihab
+KAMRUL	777	kamrul
+OPU	888	opu
+TAZIN	999	tazin
+ali	66	ali
