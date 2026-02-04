@@ -82,19 +82,7 @@ public class Wellcome extends JFrame{
         label3.setForeground(Color.white);
         c.add(label3);
 
-        label4 = new JLabel();
-        label4.setText("FAIZUR RAHMAN ZUNAYED ");
-        label4.setBounds(250,465,1000,20);
-        label4.setFont(f1);
-        label4.setForeground(Color.white);
-        c.add(label4);
-
-        label5 = new JLabel();
-        label5.setText("SHOAIB BIN HABIB ");
-        label5.setBounds(280,495,1000,20);
-        label5.setFont(f1);
-        label5.setForeground(Color.white);
-        c.add(label5);
+        
 
         double rating=0;
         try {
