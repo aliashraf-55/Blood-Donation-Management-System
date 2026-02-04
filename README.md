@@ -14,8 +14,7 @@ This is a comprehensive blood donation management system developed as part of CS
 
 ## Team Members
 - MD ALI ASHRAF
-- FAIZUR RAHMAN ZUNAYED
-- SHOAIB BIN HABIB
+
 
 ## Features
 
